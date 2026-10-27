@@ -1,0 +1,23 @@
+- Use strong unique passwords for every work account and do not use the same passwords on multiple accounts
+- Enable multi factor authentication whenever is available 
+- DO NOT share passwords with any of your workmates or your anyone out of the work place 
+- ALWAYS lock your computer when your leaving your work station 
+- Report suspicious emails to the IT department 
+
+DEVICES AND SOFTWARE 
+
+- KEEP the software of any devices updated
+- ALWAYS use the comapany's reccomended anti virus and keep it up to date 
+- NEVER leave a device unattended on public places
+
+DATA PROTECTION 
+
+- ONLY provide or share information with the people who are authorized 
+- NEVER upload the comapany's information on any AI chat bot.
+- Dispose sensitive informattion in a safe way 
+
+NETWORK CONNECTIONS 
+
+- Use only a trusted secure network when working
+- Use a comapany approved VPN and not cheap free VPN'
+- Dont connect work devices with personal network unless specificed to
